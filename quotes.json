@@ -1,30 +1,481 @@
 {
-	"anytime":[
-		"Aut inveniam viam aut faciam -- Hannibal Barca"
-	],
-	"morning":[
-		"“If you wish to be out front, then act as if you were behind.” – Lao Tzu",
-		"“A disciplined mind leads to happiness, and an undisciplined mind leads to suffering.” – Dalai Lama",
-		"“The only discipline that lasts is self-discipline.” – Bum Philips",
-		"“You have power over your mind, not outside events.  Realize this, and you will find strength.” – Marcus Aurelius",
-		"“Success doesn’t just happen.  You have to be intentional about it, and that takes discipline.” – John C. Maxwell",
-		"“The first and greatest victory is to conquer self.” – Plato",
-		"“I do not talk about my weakenesses. I work on them.” – Fedor Emelianenko",
-		"“Give what you have. To Someone, it may be better than you dare to think.“ -- Henry Wadsworth Longfellow"
-		
-	],
-	"afternoon":[
-		"'Don’t ask your leader what you should do, tell them what you are going to do'- Jocko Willink",
-		"'Instead of letting the situation dictate our decisions, we must dictate the situation.' - Jocko Willink",
-		"'The more you practice, the better you get, the more freedom you have to create.' - Jocko Willink",
-		"'If you get your ego in your way, you will only look to other people and circumstances to blame.'  - Jocko Willink",
-		"'Leaders must own everything in their world. There is no one else to blame.' - Jocko Willink",
-		"'Leadership requires belief in the mission and unyielding perseverance to achieve victory.' - Jocko Willink",
-		"'You know what the best thing is about the end of the day? Tomorrow, it starts all over again.' ~ Douglas Coupland",
-		"'“Good leaders don’t make excuses. Instead, they figure out a way to get things done.” – Jocko Willink"
-	],
-	"evening":[
-		"'The only person you can control is you. So focus on making yourself who you want to be: Faster. Smarter. Stronger. More humble. Less ego.' – Jocko Willink",
-		"'You know what the best thing is about the end of the day? Tomorrow, it starts all over again.' ~ Douglas Coupland"
-	]
+  "quotes": [
+    {
+      "quote": "Aut inveniam viam aut faciam",
+      "author": "Hannibal Barca",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "resilience",
+        "strategy"
+      ],
+      "time_of_day": "anytime"
+    },
+    {
+      "quote": "If you wish to be out front, then act as if you were behind.",
+      "author": "Lao Tzu",
+      "category": "strategy",
+      "tags": [
+        "strategy",
+        "discipline",
+        "leadership"
+      ],
+      "time_of_day": "morning",
+      "source": "Tao Te Ching"
+    },
+    {
+      "quote": "A disciplined mind leads to happiness, and an undisciplined mind leads to suffering.",
+      "author": "Dalai Lama",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "resilience"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "The only discipline that lasts is self-discipline.",
+      "author": "Bum Philips",
+      "category": "discipline",
+      "tags": [
+        "discipline"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "category": "resilience",
+      "tags": [
+        "resilience",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "morning",
+      "source": "Meditations"
+    },
+    {
+      "quote": "Success doesn't just happen. You have to be intentional about it, and that takes discipline.",
+      "author": "John C. Maxwell",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "leadership"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "The first and greatest victory is to conquer self.",
+      "author": "Plato",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "morning",
+      "source": "The Republic"
+    },
+    {
+      "quote": "I do not talk about my weaknesses. I work on them.",
+      "author": "Fedor Emelianenko",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "Give what you have. To someone, it may be better than you dare to think.",
+      "author": "Henry Wadsworth Longfellow",
+      "category": "mentoring",
+      "tags": [
+        "mentoring",
+        "leadership"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "Don't ask your leader what you should do, tell them what you are going to do.",
+      "author": "Jocko Willink",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "afternoon",
+      "source": "Extreme Ownership (2015)"
+    },
+    {
+      "quote": "Instead of letting the situation dictate our decisions, we must dictate the situation.",
+      "author": "Jocko Willink",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "afternoon",
+      "source": "Extreme Ownership (2015)"
+    },
+    {
+      "quote": "The more you practice, the better you get, the more freedom you have to create.",
+      "author": "Jocko Willink",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "afternoon",
+      "source": "Extreme Ownership (2015)"
+    },
+    {
+      "quote": "If you get your ego in your way, you will only look to other people and circumstances to blame.",
+      "author": "Jocko Willink",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "afternoon",
+      "source": "Extreme Ownership (2015)"
+    },
+    {
+      "quote": "Leaders must own everything in their world. There is no one else to blame.",
+      "author": "Jocko Willink",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "afternoon",
+      "source": "Extreme Ownership (2015)"
+    },
+    {
+      "quote": "Leadership requires belief in the mission and unyielding perseverance to achieve victory.",
+      "author": "Jocko Willink",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "afternoon",
+      "source": "Extreme Ownership (2015)"
+    },
+    {
+      "quote": "You know what the best thing is about the end of the day? Tomorrow, it starts all over again.",
+      "author": "Douglas Coupland",
+      "category": "resilience",
+      "tags": [
+        "resilience"
+      ],
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "Good leaders don't make excuses. Instead, they figure out a way to get things done.",
+      "author": "Jocko Willink",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "afternoon",
+      "source": "Extreme Ownership (2015)"
+    },
+    {
+      "quote": "The only person you can control is you. So focus on making yourself who you want to be: Faster. Smarter. Stronger. More humble. Less ego.",
+      "author": "Jocko Willink",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "evening",
+      "source": "Extreme Ownership (2015)"
+    },
+    {
+      "quote": "Plans are worthless, but planning is everything.",
+      "author": "Dwight D. Eisenhower",
+      "category": "strategy",
+      "tags": [
+        "strategy",
+        "leadership"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "If you know the enemy and know yourself, you need not fear the result of a hundred battles.",
+      "author": "Sun Tzu",
+      "category": "strategy",
+      "tags": [
+        "strategy",
+        "warrior"
+      ],
+      "source": "The Art of War",
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "The price of inaction is far greater than the cost of making a mistake.",
+      "author": "Meister Eckhart",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "strategy"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "Discipline equals freedom.",
+      "author": "Jocko Willink",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "leadership"
+      ],
+      "source": "Discipline Equals Freedom: Field Manual (2017)",
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "We do not rise to the level of our expectations. We fall to the level of our training.",
+      "author": "Archilochus",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "The soldier is the Army. No army is better than its soldiers.",
+      "author": "George S. Patton",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "warrior"
+      ],
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "You can't connect the dots looking forward; you can only connect them looking backwards.",
+      "author": "Steve Jobs",
+      "category": "resilience",
+      "tags": [
+        "resilience",
+        "strategy"
+      ],
+      "time_of_day": "evening"
+    },
+    {
+      "quote": "Hard times create strong men. Strong men create good times. Good times create weak men. And weak men create hard times.",
+      "author": "G. Michael Hopf",
+      "category": "resilience",
+      "tags": [
+        "resilience",
+        "warrior"
+      ],
+      "source": "Those Who Remain (2012)",
+      "time_of_day": "evening"
+    },
+    {
+      "quote": "The greatest victory is that which requires no battle.",
+      "author": "Sun Tzu",
+      "category": "strategy",
+      "tags": [
+        "strategy",
+        "warrior"
+      ],
+      "source": "The Art of War",
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "If you spend more on coffee than on IT security, you will be hacked. What's more, you deserve to be hacked.",
+      "author": "Richard Clarke",
+      "category": "cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "strategy"
+      ],
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room with armed guards.",
+      "author": "Gene Spafford",
+      "category": "cybersecurity",
+      "tags": [
+        "cybersecurity"
+      ],
+      "time_of_day": "anytime"
+    },
+    {
+      "quote": "Amateurs hack systems. Professionals hack people.",
+      "author": "Bruce Schneier",
+      "category": "cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "strategy"
+      ],
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      "author": "Benjamin Franklin",
+      "category": "mentoring",
+      "tags": [
+        "mentoring",
+        "leadership"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "A good leader takes a little more than his share of the blame, a little less than his share of the credit.",
+      "author": "Arnold H. Glasgow",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "mentoring"
+      ],
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+      "author": "Simon Sinek",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "mentoring"
+      ],
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "category": "resilience",
+      "tags": [
+        "resilience",
+        "strategy"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "The warrior's approach is to say yes to life: yes to it all.",
+      "author": "Joseph Campbell",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "resilience"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "Adapt what is useful, reject what is useless, and add what is specifically your own.",
+      "author": "Bruce Lee",
+      "category": "strategy",
+      "tags": [
+        "strategy",
+        "discipline"
+      ],
+      "time_of_day": "anytime"
+    },
+    {
+      "quote": "An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.",
+      "author": "Jack Welch",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "strategy"
+      ],
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "The more you sweat in training, the less you bleed in battle.",
+      "author": "Richard Marcinko",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "Every system is perfectly designed to get the results it gets.",
+      "author": "W. Edwards Deming",
+      "category": "strategy",
+      "tags": [
+        "strategy",
+        "leadership"
+      ],
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "The most dangerous leadership myth is that leaders are born. Leaders are made rather than born.",
+      "author": "Warren Bennis",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "mentoring"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "Mentoring is a brain to pick, an ear to listen, and a push in the right direction.",
+      "author": "John C. Crosby",
+      "category": "mentoring",
+      "tags": [
+        "mentoring",
+        "leadership"
+      ],
+      "time_of_day": "anytime"
+    },
+    {
+      "quote": "The day soldiers stop bringing you their problems is the day you have stopped leading them.",
+      "author": "Colin Powell",
+      "category": "mentoring",
+      "tags": [
+        "mentoring",
+        "leadership",
+        "warrior"
+      ],
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "Tell me who your heroes are and I'll tell you how you'll turn out to be.",
+      "author": "Warren Buffett",
+      "category": "mentoring",
+      "tags": [
+        "mentoring",
+        "leadership"
+      ],
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "A leader is best when people barely know he exists. When his work is done, his aim fulfilled, they will say: we did it ourselves.",
+      "author": "Lao Tzu",
+      "category": "mentoring",
+      "tags": [
+        "mentoring",
+        "leadership",
+        "strategy"
+      ],
+      "source": "Tao Te Ching",
+      "time_of_day": "evening"
+    },
+    {
+      "quote": "The truth of the matter is that you always know the right thing to do. The hard part is doing it.",
+      "author": "Norman Schwarzkopf",
+      "category": "mentoring",
+      "tags": [
+        "mentoring",
+        "discipline",
+        "warrior"
+      ],
+      "time_of_day": "evening"
+    }
+  ]
 }
