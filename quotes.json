@@ -614,6 +614,40 @@
       ],
       "source": "Nicomachean Ethics",
       "time_of_day": "morning"
+    },
+    {
+      "quote": "Seek freedom and become captive of your desires. Seek discipline and find your liberty.",
+      "author": "Frank Herbert",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "stoicism",
+        "mindset"
+      ],
+      "time_of_day": "morning",
+      "source": "Chapterhouse: Dune (1985)"
+    },
+    {
+      "quote": "Rule your mind or it will rule you.",
+      "author": "Horace",
+      "category": "stoicism",
+      "tags": [
+        "stoicism",
+        "discipline",
+        "mindset"
+      ],
+      "time_of_day": "morning",
+      "source": "Epistles, Book I"
+    },
+    {
+      "quote": "We must all suffer one of two things: the pain of discipline or the pain of regret.",
+      "author": "Jim Rohn",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "mindset"
+      ],
+      "time_of_day": "morning"
     }
   ]
 }
