@@ -1,35 +1,23 @@
-
 # mmquotes
 
-A personally curated collection of quotes organized by theme — primarily around leadership, resilience, discipline, strategy, and the mindset of operators and warfighters.  Built in JSON to import into various applications
-
-## Structure
-
-Each entry in `quotes.json` follows this schema:
-
-```json
-{
-  "quote": "The text of the quote.",
-  "author": "First Last",
-  "category": "leadership | resilience | strategy | discipline | etc."
-}
-```
-
-## Usage
-
-[How you consume this — GitHub Action, script, API call, etc.]
-
+A personally curated collection of quotes organized by theme — primarily around leadership, resilience, discipline, strategy, and the mindset of operators and warfighters. Built in JSON for easy consumption by scripts, actions, or tools.
 
 ## Schema
+
+Each entry in `quotes.json` follows this structure:
 
 ```json
 {
   "quote": "string",
   "author": "string",
   "category": "string",
+  "tags": ["array", "of", "strings"],
+  "time_of_day": "morning | afternoon | evening | anytime",
   "source": "string (optional — book, speech, interview)"
 }
 ```
+
+`tags` and `time_of_day` are optional. `source` is omitted when unknown.
 
 ## Categories
 
@@ -41,10 +29,7 @@ Each entry in `quotes.json` follows this schema:
 | `strategy` | Planning, threat thinking, decision-making |
 | `mentoring` | Development, growth, legacy |
 | `warrior` | Military, warfighter, stoic tradition |
-
-## How It's Used
-
-[Brief description — e.g., "Rotated daily via GitHub Action into profile README" or "Consumed by a terminal tool built in Rust"]
+| `cybersecurity` | Threat mindset, defense, operational security |
 
 ## Contributing
 
