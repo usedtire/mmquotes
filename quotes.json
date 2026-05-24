@@ -648,6 +648,117 @@
         "mindset"
       ],
       "time_of_day": "morning"
+    },
+    {
+      "quote": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly.",
+      "author": "Theodore Roosevelt",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "resilience",
+        "ownership"
+      ],
+      "time_of_day": "morning",
+      "source": "Citizenship in a Republic, Sorbonne, Paris, April 23, 1910"
+    },
+    {
+      "quote": "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances, to choose one's own way.",
+      "author": "Viktor Frankl",
+      "category": "stoicism",
+      "tags": [
+        "stoicism",
+        "mindset",
+        "resilience"
+      ],
+      "time_of_day": "morning",
+      "source": "Man's Search for Meaning (1946)"
+    },
+    {
+      "quote": "Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.",
+      "author": "Miyamoto Musashi",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "discipline"
+      ],
+      "time_of_day": "morning",
+      "source": "The Book of Five Rings (c. 1645)"
+    },
+    {
+      "quote": "The world breaks everyone and afterward many are strong at the broken places.",
+      "author": "Ernest Hemingway",
+      "category": "resilience",
+      "tags": [
+        "resilience",
+        "mindset"
+      ],
+      "time_of_day": "evening",
+      "source": "A Farewell to Arms (1929)"
+    },
+    {
+      "quote": "You are in danger of living a life so comfortable and soft that you will die without ever realizing your true potential.",
+      "author": "David Goggins",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "mindset",
+        "resilience"
+      ],
+      "time_of_day": "morning",
+      "source": "Can't Hurt Me (2018)"
+    },
+    {
+      "quote": "He who defends everything defends nothing.",
+      "author": "Frederick the Great",
+      "category": "strategy",
+      "tags": [
+        "strategy",
+        "warrior"
+      ],
+      "time_of_day": "anytime"
+    },
+    {
+      "quote": "Courage, above all things, is the first quality of a warrior.",
+      "author": "Carl von Clausewitz",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "discipline"
+      ],
+      "time_of_day": "morning",
+      "source": "On War (1832)"
+    },
+    {
+      "quote": "Age wrinkles the body. Quitting wrinkles the soul.",
+      "author": "Douglas MacArthur",
+      "category": "resilience",
+      "tags": [
+        "resilience",
+        "warrior",
+        "discipline"
+      ],
+      "time_of_day": "anytime"
+    },
+    {
+      "quote": "The line separating good and evil passes not through states, nor between classes, nor between political parties either — but right through every human heart.",
+      "author": "Aleksandr Solzhenitsyn",
+      "category": "mindset",
+      "tags": [
+        "mindset",
+        "warrior"
+      ],
+      "time_of_day": "evening",
+      "source": "The Gulag Archipelago (1973)"
+    },
+    {
+      "quote": "Victory belongs to the most persevering.",
+      "author": "Napoleon Bonaparte",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "resilience"
+      ],
+      "time_of_day": "morning"
     }
   ]
 }
