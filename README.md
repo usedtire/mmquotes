@@ -1,6 +1,7 @@
+
 # mmquotes
 
-A curated personal quotes library used for [describe use — profile README rotation / terminal display / dashboard widget / etc.].
+A personally curated collection of quotes organized by theme — primarily around leadership, resilience, discipline, strategy, and the mindset of operators and warfighters.  Built in JSON to import into various applications
 
 ## Structure
 
@@ -18,10 +19,6 @@ Each entry in `quotes.json` follows this schema:
 
 [How you consume this — GitHub Action, script, API call, etc.]
 
-
-# mmquotes
-
-A personally curated collection of quotes organized by theme — primarily around leadership, resilience, discipline, strategy, and the mindset of operators and warfighters.
 
 ## Schema
 
