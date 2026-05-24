@@ -476,6 +476,134 @@
         "warrior"
       ],
       "time_of_day": "evening"
+    },
+    {
+      "quote": "Out of every one hundred men, ten should not even be here, eighty are nothing but targets, nine are the real fighters, and we are lucky to have them, for they make the battle. Ah, but the one — one is a warrior, and he will bring the others back.",
+      "author": "Attributed to Heraclitus (misattributed — origin: John DiFusco, Tracers, 1980)",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "leadership",
+        "discipline"
+      ],
+      "source": "Tracers (Off-Broadway play, 1980/1984) — commonly but incorrectly attributed to Heraclitus of Ephesus",
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "One man is ten thousand to me, if he is the best.",
+      "author": "Heraclitus",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "leadership",
+        "discipline"
+      ],
+      "source": "Fragment 49, Loeb Classical Library — authentic",
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "The secret of happiness is freedom, and the secret of freedom is courage.",
+      "author": "Thucydides",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "resilience",
+        "discipline"
+      ],
+      "source": "History of the Peloponnesian War",
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "It is not that I am brave, but that I choose to be brave. And so the brave man is not the one who is unafraid, but the one who acts despite his fear.",
+      "author": "Seneca",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "resilience",
+        "discipline"
+      ],
+      "source": "Letters to Lucilius",
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "strategy"
+      ],
+      "source": "On the Shortness of Life",
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "No man is free who is not master of himself.",
+      "author": "Epictetus",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "warrior"
+      ],
+      "source": "Enchiridion",
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "Make the best use of what is in your power, and take the rest as it happens.",
+      "author": "Epictetus",
+      "category": "strategy",
+      "tags": [
+        "strategy",
+        "discipline",
+        "resilience"
+      ],
+      "source": "Discourses",
+      "time_of_day": "anytime"
+    },
+    {
+      "quote": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "category": "resilience",
+      "tags": [
+        "resilience",
+        "strategy",
+        "warrior"
+      ],
+      "source": "Meditations, Book 5.20",
+      "time_of_day": "morning"
+    },
+    {
+      "quote": "Experience is the teacher of all things.",
+      "author": "Julius Caesar",
+      "category": "strategy",
+      "tags": [
+        "strategy",
+        "discipline"
+      ],
+      "source": "Commentarii de Bello Gallico, 5.53",
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "We do not imitate — we are a model to others.",
+      "author": "Pericles",
+      "category": "leadership",
+      "tags": [
+        "leadership",
+        "warrior",
+        "strategy"
+      ],
+      "source": "Funeral Oration, recorded in Thucydides, History of the Peloponnesian War, Book 2",
+      "time_of_day": "afternoon"
+    },
+    {
+      "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "category": "discipline",
+      "tags": [
+        "discipline",
+        "leadership"
+      ],
+      "source": "Nicomachean Ethics",
+      "time_of_day": "morning"
     }
   ]
 }
