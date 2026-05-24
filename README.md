@@ -30,6 +30,9 @@ Each entry in `quotes.json` follows this structure:
 | `mentoring` | Development, growth, legacy |
 | `warrior` | Military, warfighter, stoic tradition |
 | `cybersecurity` | Threat mindset, defense, operational security |
+| `stoicism` | Stoic philosophy — Seneca, Epictetus, Marcus Aurelius |
+| `mindset` | Perspective, mental framing, attitude |
+| `ownership` | Accountability, no excuses, extreme ownership |
 
 ## Contributing
 
