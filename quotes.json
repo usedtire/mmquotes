@@ -760,5 +760,15 @@
       ],
       "time_of_day": "morning"
     }
+        {
+      "quote": "We few, we happy few, we band of brothers",
+      "author": "William Shakespear",
+      "category": "warrior",
+      "tags": [
+        "warrior",
+        "mindset"
+      ],
+      "time_of_day": "morning"
+    }
   ]
 }
